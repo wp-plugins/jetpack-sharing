@@ -63,7 +63,7 @@ add_filter('plugin_action_links_' . plugin_basename(__FILE__), 'jetpack_sharing_
 
 /*
 Edits by Anas H. Sulaiman:
-E-1 : comment out Jetpack specific code
+E-1 : remove Jetpack specific code
 E-2 : load text domain
 E-3 : add settings link
 */
