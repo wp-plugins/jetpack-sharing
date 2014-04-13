@@ -2,8 +2,8 @@
 Contributors: ahspw
 Tags: share, social, facebook, google, twitter, pinterest, linkedin, stumbleupon, reddit, digg, tumblr, sharing, jetpack
 Requires at least: 3.5
-Tested up to: 3.8.1
-Stable tag: 2.9
+Tested up to: 3.8.2
+Stable tag: 2.9.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
