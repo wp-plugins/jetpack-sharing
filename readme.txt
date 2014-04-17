@@ -65,8 +65,13 @@ Things you'd be happy to know:
 * The module was carefully extracted from the package. That means there is no missing feature or some irrelevant code.
 * The module does not require a connection to a WordPress.com account.
 
-Note: Translations were not included, due to the fact that Jetpack uses one transaltion file for all the modules, which makes it really difficult to extract translations.
-The good news is that the module can be translated easily.
+= Translations =
+
+Original translations were not included, due to the fact that Jetpack uses one transaltion file for all the modules, which makes it really difficult to extract translations.
+The good news is that the module can be translated easily. In fact, it has already been translated to the following languages:
+
+* Arabic translation by the author.
+* Swedish translation by Max Beta.
 
 = You may also like =
 
@@ -88,6 +93,10 @@ The good news is that the module can be translated easily.
 2. Example
 
 == Changelog ==
+
+= next =
+
+* Swedish translation by Max Beta.
 
 = 2.9.3 =
 
