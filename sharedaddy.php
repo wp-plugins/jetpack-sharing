@@ -24,6 +24,10 @@
  * Module Tags: Social
  */
 
+// E-4 {
+define( 'JETPACK_SHARING_VERSION', '2.9.3' );
+// }
+
 if ( !function_exists( 'sharing_init' ) )
 	include dirname( __FILE__ ).'/sharedaddy/sharedaddy.php';
 
@@ -66,4 +70,5 @@ Edits by Anas H. Sulaiman:
 E-1 : remove Jetpack specific code
 E-2 : load text domain
 E-3 : add settings link
+E-4 : disconnect from jetpack
 */

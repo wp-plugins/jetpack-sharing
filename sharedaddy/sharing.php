@@ -24,8 +24,8 @@ class Sharing_Admin {
 
 	public function sharing_head() {
 		wp_enqueue_script( 'sharing-js', WP_SHARING_PLUGIN_URL.'admin-sharing.js', array( 'jquery-ui-draggable', 'jquery-ui-droppable', 'jquery-ui-sortable', 'jquery-form' ), 2 );
-		wp_enqueue_style( 'sharing-admin', WP_SHARING_PLUGIN_URL.'admin-sharing.css', false, JETPACK__VERSION );
-		wp_enqueue_style( 'sharing', WP_SHARING_PLUGIN_URL.'sharing.css', false, JETPACK__VERSION );
+		wp_enqueue_style( 'sharing-admin', WP_SHARING_PLUGIN_URL.'admin-sharing.css', false, JETPACK_SHARING_VERSION ); // E-3
+		wp_enqueue_style( 'sharing', WP_SHARING_PLUGIN_URL.'sharing.css', false, JETPACK_SHARING_VERSION ); // E-3
 		wp_enqueue_script( 'sharing-js-fe', WP_SHARING_PLUGIN_URL . 'sharing.js', array( ), 3 );
 
 		add_thickbox();
@@ -439,4 +439,5 @@ add_action( 'init', 'sharing_admin_init' );
 Edits by Anas H. Sulaiman:
 E-1: replace text domain
 E-2: disconnect from wordpress.com
+E-3: disconnect from jetpack
 */

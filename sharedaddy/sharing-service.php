@@ -3,7 +3,7 @@
 include_once dirname( __FILE__ ).'/sharing-sources.php';
 
 // define( 'WP_SHARING_PLUGIN_VERSION', JETPACK__VERSION ); // E-2
-define( 'WP_SHARING_PLUGIN_VERSION', '1.0' ); // E-2
+define( 'WP_SHARING_PLUGIN_VERSION', JETPACK_SHARING_VERSION ); // E-2
 
 class Sharing_Service {
 	private $global = false;
@@ -439,7 +439,7 @@ function sharing_add_header() {
 	}
 
 	if ( count( $enabled['all'] ) > 0 )
-		wp_enqueue_style( 'sharedaddy', plugin_dir_url( __FILE__ ) .'sharing.css', array(), JETPACK__VERSION );
+		wp_enqueue_style( 'sharedaddy', plugin_dir_url( __FILE__ ) .'sharing.css', array(), WP_SHARING_PLUGIN_VERSION );
 }
 add_action( 'wp_head', 'sharing_add_header', 1 );
 
@@ -635,5 +635,5 @@ function get_base_recaptcha_lang_code() {
 /*
 Edits by Anas H. Sulaiman:
 E-1: replace text domain
-E-2: remove jetpack dependency
+E-2: disconnect from jetpack
 */
