@@ -97,6 +97,7 @@ The good news is that the module can be translated easily. In fact, it has alrea
 = next =
 
 * Swedish translation by Max Beta.
+* Bugfix: Notice Use of undefined constant JETPACK__VERSION
 
 = 2.9.3 =
 
