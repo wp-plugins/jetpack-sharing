@@ -2,8 +2,8 @@
 Contributors: ahspw
 Tags: share, social, facebook, google, twitter, pinterest, linkedin, stumbleupon, reddit, digg, tumblr, sharing, jetpack
 Requires at least: 3.5
-Tested up to: 3.9
-Stable tag: 2.9.3
+Tested up to: 3.9.1
+Stable tag: 3.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -94,8 +94,10 @@ The good news is that the module can be translated easily. In fact, it has alrea
 
 == Changelog ==
 
-= next =
+= 3.0.1 =
 
+* Enhancement: New look
+* Bugfix: Ensure Sharing settings persist when Bulk Editing a post
 * Swedish translation by Max Beta.
 * Bugfix: Notice Use of undefined constant JETPACK__VERSION
 
