@@ -7,7 +7,7 @@
  * Author: Anas H. Sulaiman
  * Version: 3.0.1
  * Author URI: http://ahs.pw/
- * Text Domain: jetpack-sharing
+ * Text Domain: jetpack
  * Domain Path: /languages/
  * License: GPL2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -58,7 +58,7 @@ function sharedaddy_configuration_load() {
 
 // E-2 {
 function jetpack_sharing_load_textdomain() {
-	load_plugin_textdomain( 'jetpack-sharing', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
+	load_plugin_textdomain( 'jetpack', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
 }
 add_action( 'plugins_loaded', 'jetpack_sharing_load_textdomain' );
 // } E-2
@@ -66,7 +66,7 @@ add_action( 'plugins_loaded', 'jetpack_sharing_load_textdomain' );
 // E-3 {
 function jetpack_sharing_settings_link($actions) {
 	return array_merge(
-		array( 'settings' => sprintf( '<a href="%s">%s</a>', 'options-general.php?page=sharing', __( 'Settings', 'jetpack-sharing' ) ) ),
+		array( 'settings' => sprintf( '<a href="%s">%s</a>', 'options-general.php?page=sharing', __( 'Settings', 'jetpack' ) ) ),
 		$actions
 	);
 	return $actions;
