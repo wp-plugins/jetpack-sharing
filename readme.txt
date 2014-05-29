@@ -72,6 +72,7 @@ The good news is that the module can be translated easily. In fact, it has alrea
 
 * Arabic translation by the author.
 * Swedish translation by Max Beta.
+* Portuguese translation by [Celso Azevedo](http://www.wptotal.com/)
 
 = You may also like =
 
