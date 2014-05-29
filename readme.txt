@@ -94,6 +94,10 @@ The good news is that the module can be translated easily. In fact, it has alrea
 
 == Changelog ==
 
+= next =
+
+* Portuguese translation by [Celso Azevedo](http://www.wptotal.com/)
+
 = 3.0.1 =
 
 * Enhancement: New look
