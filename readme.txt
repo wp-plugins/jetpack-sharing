@@ -13,6 +13,11 @@ Share content with Facebook, Twitter, and many more.
 
 Let your readers share content from your website on many social networks.
 
+= Before asking for help =
+
+* If this plugin works (which means it activates without problems), please post your help request on the original [Jetpack forums](http://wordpress.org/support/plugin/jetpack). Your chances of getting help will be much better. I'm not the developer of this plugin. See notes below.
+* If, otherwise, this plugin does not work (which means it is not activating or it's breaking your bolg), please ask [here](https://wordpress.org/support/plugin/jetpack-sharing), and I shall help you fix it ASAP.
+
 = Features =
 
 * Choose social networks buttons you'd like to add.
