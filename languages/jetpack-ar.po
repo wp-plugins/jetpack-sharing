@@ -1,0 +1,586 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JP Sharing v3.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-08-03 22:57+0200\n"
+"Last-Translator: Anas H. Sulaiman <ahs.pw>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: ar_SA\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ jetpack
+#: sharedaddy/sharedaddy.php:21
+msgid "Shared Post"
+msgstr "مقالة مشاركة"
+
+# @ jetpack
+#: sharedaddy/sharedaddy.php:26 sharedaddy/sharing.php:67
+msgid "Sharing"
+msgstr "مشاركة"
+
+# @ jetpack
+#: sharedaddy/sharedaddy.php:40
+msgid "Show sharing buttons."
+msgstr "إظهار أزرار المشاركة"
+
+# @ jetpack
+#: sharedaddy/sharedaddy.php:79 sharedaddy/sharedaddy.php:86 sharedaddy.php:69
+msgid "Settings"
+msgstr "إعدادات"
+
+# @ jetpack
+#: sharedaddy/sharedaddy.php:87
+msgid "Support"
+msgstr "دعم"
+
+# @ jetpack
+#: sharedaddy/sharedaddy.php:117
+msgid "Disable CSS and JS"
+msgstr "تعطيل سي إس إس وجافاسكربت"
+
+# @ jetpack
+#: sharedaddy/sharedaddy.php:119
+msgid ""
+"Advanced.  If this option is checked, you must include these files in your "
+"theme manually for the sharing links to work."
+msgstr ""
+"متقدم. إذا كان هذا الخيار مفعلاً، فعليك تضمين هذه الملفات يدوياً في المظهر "
+"الخاص بك، حتى تعمل روابط المشاركة."
+
+# @ jetpack
+#: sharedaddy/sharing-service.php:13 sharedaddy/sharing.php:171
+msgid "Share this:"
+msgstr "شارك هذا:"
+
+# @ jetpack
+#: sharedaddy/sharing-service.php:559 sharedaddy/sharing.php:264
+#: sharedaddy/sharing.php:297
+msgid "More"
+msgstr "المزيد"
+
+# @ jetpack
+#: sharedaddy/sharing-service.php:561
+msgid "Share"
+msgstr "شارك"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:208
+msgctxt "as sharing source"
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:250
+msgid "This post has been shared!"
+msgstr "تمت مشاركة هذه المقالة!"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:251
+#, php-format
+msgid "You have shared this post with %s"
+msgstr "لقد شاركت هذه المقالة مع %s"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:252
+msgid "Close"
+msgstr "إغلاق"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:274
+msgctxt "share to"
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:274
+msgid "Click to email this to a friend"
+msgstr "إضغط لإرسال هذا عبر البريد الإلكتروني إلى صديق"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:287
+msgid "Send to Email Address"
+msgstr "إرسال إلى بريد إلكتروني"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:295
+msgid "Your Name"
+msgstr "اسمك"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:298
+msgid "Your Email Address"
+msgstr "بريدك الإلكتروني"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:306
+msgid "Send Email"
+msgstr "إرسال البريد"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:307
+msgid "Cancel"
+msgstr "إلغاء"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:310
+msgid "Post was not sent - check your email addresses!"
+msgstr "لم ترسل المقالة - تأكد من عناوين البريد الإلكتروني!"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:314
+msgid "Email check failed, please try again"
+msgstr "فشل التحقق من البريد الإلكتروني، رجاء حاول مرة أخرى"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:318
+msgid "Sorry, your blog cannot share posts by email."
+msgstr "عفواً، لا يمكن لمدونتك مشاركة المقالات عبر البريد الإلكتروني."
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:341
+msgid "Twitter"
+msgstr "تويتر"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:403
+msgctxt "share to"
+msgid "Twitter"
+msgstr "تويتر"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:403
+msgid "Click to share on Twitter"
+msgstr "اضغط للمشاركة على تويتر"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:478
+msgid "StumbleUpon"
+msgstr "ستامبلبون"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:489
+msgctxt "share to"
+msgid "StumbleUpon"
+msgstr "ستامبلبون"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:489
+msgid "Click to share on StumbleUpon"
+msgstr "اضغط للمشاركة على ستامبلبون"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:516
+msgid "Reddit"
+msgstr "ريدت"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:523
+msgid "Click to share on Reddit"
+msgstr "اضغط للمشاركة على ريدت"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:550
+msgid "LinkedIn"
+msgstr "لينكدإن"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:564
+msgctxt "share to"
+msgid "LinkedIn"
+msgstr "لينكدإن"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:564
+msgid "Click to share on LinkedIn"
+msgstr "اضغط للمشاركة على لينكدإن"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:628
+msgid "Facebook"
+msgstr "فيسبوك"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:706
+msgctxt "share to"
+msgid "Facebook"
+msgstr "فيسبوك"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:706
+msgid "Share on Facebook"
+msgstr "اضغط للمشاركة على فيسبوك"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:737
+msgid "Print"
+msgstr "طباعة"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:741
+msgctxt "share to"
+msgid "Print"
+msgstr "طباعة"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:741
+msgid "Click to print"
+msgstr "اضغط للطباعة"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:757
+msgid "Press This"
+msgstr "انشر هذا"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:785
+msgctxt "share to"
+msgid "Press This"
+msgstr "انشر هذا"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:785
+msgid "Click to Press This!"
+msgstr "اضغط لنشر هذا!"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:803
+msgid "Google"
+msgstr "غوغل"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:816
+msgctxt "share to"
+msgid "Google"
+msgstr "غوغل"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:816
+msgid "Click to share on Google+"
+msgstr "اضغط للمشاركة على غوغل بلس"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:917
+msgid "Click to share"
+msgstr "اضغط للمشاركة"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:967
+msgid "Label"
+msgstr "نص"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:972
+msgid "URL"
+msgstr "رابط"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:977
+msgid "Icon"
+msgstr "أيقونة"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:984
+msgid "Save"
+msgstr "حفظ"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:985
+msgid "Remove Service"
+msgstr "إزالة الخدمة"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:1064
+msgid "Tumblr"
+msgstr "تامبلر"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:1075
+msgctxt "share to"
+msgid "Tumblr"
+msgstr "تامبلر"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:1075
+msgid "Click to share on Tumblr"
+msgstr "اضغط للمشاركة على تامبلر"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:1111
+msgid "Pinterest"
+msgstr "بينترست"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:1118
+msgctxt "share to"
+msgid "Pinterest"
+msgstr "بينترست"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:1118
+msgid "Click to share on Pinterest"
+msgstr "اضغط للمشاركة على بينترست"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:1189 sharedaddy/sharing-sources.php:1207
+msgid "Pocket"
+msgstr "بوكت"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:1212
+msgctxt "share to"
+msgid "Pocket"
+msgstr "بوكت"
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:1212
+msgid "Click to share on Pocket"
+msgstr "اضغط للمشاركة على بوكت"
+
+# @ jetpack
+#: sharedaddy/sharing.php:67 sharedaddy/sharing.php:177
+msgid "Sharing Settings"
+msgstr "إعدادات المشاركة"
+
+# @ jetpack
+#: sharedaddy/sharing.php:163
+msgid "Warning! Multibyte support missing!"
+msgstr "تحذير! لا يوجد دعم لـ Multibyte"
+
+# @ jetpack
+#: sharedaddy/sharing.php:164
+#, php-format
+msgid ""
+"This plugin will work without it, but multibyte support is used <a href=\"%s"
+"\">if available</a>. You may see minor problems with Tweets and other "
+"sharing services."
+msgstr ""
+"ستعمل هذه الإضافة دونها، لكن دعم multibyte سيستخدم <a href=\"%s\">إن توفر</"
+"a>. قد ترى بعض المشاكل البسيطة مع التغريدات وخدمات المشاركة الأخرى."
+
+# @ jetpack
+#: sharedaddy/sharing.php:168
+msgid "Settings have been saved"
+msgstr "تم حفظ الإعدادات"
+
+# @ jetpack
+#: sharedaddy/sharing.php:184
+msgid "Sharing Buttons"
+msgstr "أزرار المشاركة"
+
+# @ jetpack
+#: sharedaddy/sharing.php:185
+msgid ""
+"Add sharing buttons to your blog and allow your visitors to share posts with "
+"their friends."
+msgstr ""
+"أضف أزرار المشاركة إلى مدونتك واسمح للزوار بمشاركة مقالاتك مع أصدقائهم."
+
+# @ jetpack
+#: sharedaddy/sharing.php:191
+msgid "Available Services"
+msgstr "الخدمات المتوفرة"
+
+# @ jetpack
+#: sharedaddy/sharing.php:192
+msgid "Drag and drop the services you'd like to enable into the box below."
+msgstr "اسحب الخدمات التي ترغب بتفعيلها وأفلتها في الصندوق في الأسفل."
+
+# @ jetpack
+#: sharedaddy/sharing.php:193
+msgid "Add a new service"
+msgstr "أضف خدمة جديدة"
+
+# @ jetpack
+#: sharedaddy/sharing.php:206
+msgid ""
+"Please note that your services have been restricted because your site is "
+"private."
+msgstr "رجاء لاحظ أن خدماتك حظرت لأن موقعك خاص."
+
+# @ jetpack
+#: sharedaddy/sharing.php:217
+msgid "Enabled Services"
+msgstr "الخدمات المفعلة"
+
+# @ jetpack
+#: sharedaddy/sharing.php:220
+msgid "Services dragged here will appear individually."
+msgstr "ستظهر الخدمات المسحوبة إلى هنا بشكل فردي."
+
+# @ jetpack
+#: sharedaddy/sharing.php:223
+msgid "Drag and drop available services here."
+msgstr "اسحب الخدمات المتوفرة إلى هنا وأفلتها."
+
+# @ jetpack
+#: sharedaddy/sharing.php:234
+msgid "Services dragged here will be hidden behind a share button."
+msgstr "ستخفى الخدمات المسحوبة إلى هنا خلف زر مشاركة."
+
+# @ jetpack
+#: sharedaddy/sharing.php:249
+msgid "Live Preview"
+msgstr "معاينة مباشرة"
+
+# @ jetpack
+#: sharedaddy/sharing.php:252
+msgid "Sharing is off. Add services above to enable."
+msgstr "المشاركة معطلة. أضف خدمات من الأعلى لتفعيلها."
+
+# @ jetpack
+#: sharedaddy/sharing.php:318
+msgid "Button style"
+msgstr "مظهر الزر"
+
+# @ jetpack
+#: sharedaddy/sharing.php:321
+msgid "Icon + text"
+msgstr "أيقونة + نص"
+
+# @ jetpack
+#: sharedaddy/sharing.php:322
+msgid "Icon only"
+msgstr "أيقونة فقط"
+
+# @ jetpack
+#: sharedaddy/sharing.php:323
+msgid "Text only"
+msgstr "نص فقط"
+
+# @ jetpack
+#: sharedaddy/sharing.php:324
+msgid "Official buttons"
+msgstr "أزرار رسمية"
+
+# @ jetpack
+#: sharedaddy/sharing.php:329
+msgid "Sharing label"
+msgstr "نص المشاركة"
+
+# @ jetpack
+#: sharedaddy/sharing.php:335
+msgid "Open links in"
+msgstr "فتح الروابط في"
+
+# @ jetpack
+#: sharedaddy/sharing.php:338
+msgid "New window"
+msgstr "نافذة جديدة"
+
+# @ jetpack
+#: sharedaddy/sharing.php:339
+msgid "Same window"
+msgstr "النافذة نفسها"
+
+# @ jetpack
+#: sharedaddy/sharing.php:344
+msgid "Show buttons on"
+msgstr "أظهر الأزرار في"
+
+# @ jetpack
+#: sharedaddy/sharing.php:350
+msgid "Front Page, Archive Pages, and Search Results"
+msgstr "الصفحة الأمامية وصفحات الأرشيفات ونتائج البحث"
+
+# @ jetpack
+#: sharedaddy/sharing.php:366
+msgid "Save Changes"
+msgstr "حفظ التغييرات"
+
+# @ jetpack
+#: sharedaddy/sharing.php:377
+msgid "Service name"
+msgstr "اسم الخدمة"
+
+# @ jetpack
+#: sharedaddy/sharing.php:383
+msgid "Sharing URL"
+msgstr "رابط الخدمة"
+
+# @ jetpack
+#: sharedaddy/sharing.php:387
+msgid "You can add the following variables to your service sharing URL:"
+msgstr "يمكنك إضافة المتحولات التالية إلى رابط خدمة المشاركة:"
+
+# @ jetpack
+#: sharedaddy/sharing.php:392
+msgid "Icon URL"
+msgstr "رابط الأيقونة"
+
+# @ jetpack
+#: sharedaddy/sharing.php:395
+msgid "Enter the URL of a 16x16px icon you want to use for this service."
+msgstr "أدخل رابط أيقونة بقياس 16x16px لاستخدامها مع هذه الخدمة."
+
+# @ jetpack
+#: sharedaddy/sharing.php:401
+msgid "Create Share Button"
+msgstr "إنشاء زر مشاركة"
+
+# @ jetpack
+#: sharedaddy/sharing.php:413
+msgid ""
+"An error occurred creating your new sharing service - please check you gave "
+"valid details."
+msgstr ""
+"حدث خطأ أثناء إنشاء خدمة المشاركة الجديدة - رجاء تحقق أنك أدخلت تفاصيل صحيحة."
+
+# @ jetpack
+#. translators: plugin header field 'Author'
+#: sharedaddy.php:0
+msgid "Anas H. Sulaiman"
+msgstr "أنس هشام سليمان"
+
+# @ jetpack
+#. translators: plugin header field 'AuthorURI'
+#: sharedaddy.php:0
+msgid "http://ahs.pw/"
+msgstr ""
+
+# @ jetpack
+#: sharedaddy/sharing-sources.php:523
+msgctxt "share to"
+msgid "Reddit"
+msgstr "ريدت"
+
+# @ jetpack
+#: sharedaddy/sharedaddy.php:14
+#, php-format
+msgid "%1$s (%2$s) thinks you may be interested in the following post:"
+msgstr "%1$s (%2$s) يعتقد أنك قد تكون مهتماً بالمقالة التالية:"
+
+# @ jetpack
+#. translators: plugin header field 'PluginURI'
+#: sharedaddy.php:0
+msgid "http://wordpress.org/plugins/jetpack-sharing/"
+msgstr ""
+
+# @ jetpack
+#. translators: plugin header field 'Description'
+#: sharedaddy.php:0
+msgid "Share content with Facebook, Twitter, and many more."
+msgstr "شارك المحتوى مع فيسبوك وتويتر والعديد من الخدمات الأخرى."
+
+# @ jetpack
+#. translators: plugin header field 'Name'
+#: sharedaddy.php:0
+msgid "JP Sharing"
+msgstr ""
+
+# @ jetpack
+#. translators: plugin header field 'Version'
+#: sharedaddy.php:0
+msgid "3.1"
+msgstr ""
