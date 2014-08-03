@@ -1,9 +1,9 @@
-=== Jetpack Sharing ===
+=== JP Sharing ===
 Contributors: ahspw
 Tags: share, social, facebook, google, twitter, pinterest, linkedin, stumbleupon, reddit, digg, tumblr, sharing, jetpack
 Requires at least: 3.5
 Tested up to: 3.9.1
-Stable tag: 3.0.1
+Stable tag: 3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -81,15 +81,15 @@ The good news is that the module can be translated easily. In fact, it has alrea
 
 = You may also like =
 
-* [Jetpack Widget Visibility](http://wordpress.org/plugins/jetpack-widget-visibility/) - Control what pages your widgets appear on.
-* [Jetpack Gravatar Hovercards](http://wordpress.org/plugins/jetpack-gravatar-hovercards/) - Show a pop-up business card of your users' gravatar profiles in comments.
-* [Jetpack Omnisearch](http://wordpress.org/plugins/jetpack-omnisearch/) - A single search box, that lets you search many different things.
-* [Jetpack Markdown](http://wordpress.org/plugins/jetpack-markdown/) - Write in Markdown, publish in HTML.
+* [JP Widget Visibility](http://wordpress.org/plugins/jetpack-widget-visibility/) - Control what pages your widgets appear on.
+* [JP Gravatar Hovercards](http://wordpress.org/plugins/jetpack-gravatar-hovercards/) - Show a pop-up business card of your users' gravatar profiles in comments.
+* [JP Omnisearch](http://wordpress.org/plugins/jetpack-omnisearch/) - A single search box, that lets you search many different things.
+* [JP Markdown](http://wordpress.org/plugins/jetpack-markdown/) - Write in Markdown, publish in HTML.
 
 == Installation ==
 
-1. Install Jetpack Sharing either via the WordPress.org plugin directory, or by uploading the files to your server.
-2. Activate Jetpack Sharing through the 'Plugins' menu in WordPress.
+1. Install JP Sharing either via the WordPress.org plugin directory, or by uploading the files to your server.
+2. Activate JP Sharing through the 'Plugins' menu in WordPress.
 3. That's it. You're ready to go!
 
 == Screenshots ==
@@ -100,9 +100,18 @@ The good news is that the module can be translated easily. In fact, it has alrea
 
 == Changelog ==
 
-= next =
+= 3.1 =
 
 * Portuguese translation by [Celso Azevedo](http://www.wptotal.com/)
+* Update to 3.1
+* Change plugin name to "JP Sharing" in response to Jetpack team request.
+* Improved RTL support
+* Updated Genericons to version 3.1, new icons for website, ellipsis, foursquare, x-post, sitemap, hierarchy and paintbrush.
+* Bugfix: Pinterest adds attribute to display share count.
+* Bug Fix: Respect an empty sharing title.
+* Bug Fix: Share buttons now appear in the bbPress forms.
+* Bug Fix: Support for multiple meta html tag og:image values.
+
 
 = 3.0.1 =
 
@@ -130,3 +139,8 @@ The good news is that the module can be translated easily. In fact, it has alrea
 = 2.5 =
 
 * Initial release
+
+== Upgrade Notice ==
+
+= 3.1 =
+Bugfixes, improved RTL support, added Portuguese translation, and Updated Genericons to version 3.1.
