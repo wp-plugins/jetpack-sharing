@@ -11,92 +11,24 @@ Share content with Facebook, Twitter, and many more.
 
 == Description ==
 
-Let your readers share content from your website on many social networks.
-
-= Before asking for help =
-
-* If this plugin works (which means it activates without problems), please post your help request on the original [Jetpack forums](http://wordpress.org/support/plugin/jetpack). Your chances of getting help will be much better. I'm not the developer of this plugin. See notes below.
-* If, otherwise, this plugin does not work (which means it is not activating or it's breaking your bolg), please ask [here](https://wordpress.org/support/plugin/jetpack-sharing), and I shall help you fix it ASAP.
-
-= Features =
-
-* Choose social networks buttons you'd like to add.
-* Drag and drop style for button selection.
-* Hide some buttons behind a share button.
-* Add your own custom buttons.
-* Choose from 4 different buttons styles: icon only, text only, icon + text, or official buttons.
-* Custom sharing label. (displayed next to sharing buttons)
-* Open links in the same window, or in a new one.
-* Choose where the buttons show up.
-* Preview how the buttons will be appear on your website, right from the settings page.
-
-= Supported services =
-
-* Twitter
-* Facebook
-* Tumblr
-* Google+
-* Pinterest
-* Digg
-* Stumbleupon
-* Reddit
-* Pocket
-* LinkedIn
-* Press This (only available on sites that are part of a multisite network)
-* Email
-* Print
-
-= More details? =
-
-Here’s a quick video to show you all the great things you can do with Sharing:
-
-[wpvideo NSd9EyhT]
-
-= Even more details? =
-
-Check out [Jetpack Sharing module page](http://jetpack.me/support/sharing/).
-
-= Notes =
-
-[Jetpack](http://wordpress.org/plugins/jetpack/) is a plugin that ships with many modules. Why install the whole package, if you're just interested in one module?!
-
-This plugin is the exact [Sharing module](http://jetpack.me/support/sharing/) of the original Jetpack plugin, only without all the extra stuff.
-
-The version number of this plugin will follow the version number of Jetpack. This way, it's easier for you to know which Jetpack version this module was extracted from.
-
-Things you'd be happy to know:
-
-* The module is almost untouched. (Some lines had to be removed and some had to be added, for the sole reason of making the module a stand-alone plugin).
-* The module was carefully extracted from the package. That means there is no missing feature or some irrelevant code.
-* The module does not require a connection to a WordPress.com account.
+Just the [Sharing module](http://jetpack.me/support/sharing/) from [Jetpack](http://wordpress.org/plugins/jetpack/).
 
 = Translations =
+Translations are not included in this plugin. Though, you can easily translate this plugin if you are interested enough.
+Already there is:
 
-Original translations were not included, due to the fact that Jetpack uses one transaltion file for all the modules, which makes it really difficult to extract translations.
-The good news is that the module can be translated easily. In fact, it has already been translated to the following languages:
+* Arabic.
+* Swedish by Max Beta.
+* Portuguese by [Celso Azevedo](http://www.wptotal.com/)
 
-* Arabic translation by the author.
-* Swedish translation by Max Beta.
-* Portuguese translation by [Celso Azevedo](http://www.wptotal.com/)
+= JP Family =
 
-= You may also like =
-
+* [JP Sharing](http://wordpress.org/plugins/jetpack-sharing/) - Share content with Facebook, Twitter, and many more.
 * [JP Widget Visibility](http://wordpress.org/plugins/jetpack-widget-visibility/) - Control what pages your widgets appear on.
+* [JP Markdown](http://wordpress.org/plugins/jetpack-markdown/) - Write in Markdown, publish in HTML.
+* [JP Custom CSS](http://wordpress.org/plugins/jp-custom-css/) - Customize your site’s CSS without modifying your theme.
 * [JP Gravatar Hovercards](http://wordpress.org/plugins/jetpack-gravatar-hovercards/) - Show a pop-up business card of your users' gravatar profiles in comments.
 * [JP Omnisearch](http://wordpress.org/plugins/jetpack-omnisearch/) - A single search box, that lets you search many different things.
-* [JP Markdown](http://wordpress.org/plugins/jetpack-markdown/) - Write in Markdown, publish in HTML.
-
-== Installation ==
-
-1. Install JP Sharing either via the WordPress.org plugin directory, or by uploading the files to your server.
-2. Activate JP Sharing through the 'Plugins' menu in WordPress.
-3. That's it. You're ready to go!
-
-== Screenshots ==
-
-1. Settings menu
-2. Settings
-2. Example
 
 == Changelog ==
 
