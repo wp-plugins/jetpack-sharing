@@ -1,0 +1,571 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Jetpack Sharing v3.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-05-28 22:44-0000\n"
+"PO-Revision-Date: 2014-10-26 11:29+0100\n"
+"Last-Translator: Sjoerd <sjoerd.walburg@gmail.com>\n"
+"Language-Team:  <mail@celsoazevedo.net>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy.php:69
+#: jetpack-sharing/sharedaddy/sharedaddy.php:79
+#: jetpack-sharing/sharedaddy/sharedaddy.php:86
+msgid "Settings"
+msgstr "Instellingen"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharedaddy.php:14
+#, php-format
+msgid "%1$s (%2$s) thinks you may be interested in the following post:"
+msgstr "%1$s (%2$s) pensa que você pode estar interessado neste artigo:"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharedaddy.php:21
+msgid "Shared Post"
+msgstr "Gedeeld bericht"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharedaddy.php:26
+#: jetpack-sharing/sharedaddy/sharing.php:59
+msgid "Sharing"
+msgstr "Delen"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharedaddy.php:40
+msgid "Show sharing buttons."
+msgstr "Toon gedeelde buttons."
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharedaddy.php:87
+msgid "Support"
+msgstr "Hulp"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharedaddy.php:117
+msgid "Disable CSS and JS"
+msgstr "Schakel CCS en JS uit"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharedaddy.php:119
+msgid ""
+"Advanced.  If this option is checked, you must include these files in your "
+"theme manually for the sharing links to work."
+msgstr ""
+"Uitgebreid. Als deze functie is ingeschakeld dan moet je handmatig de "
+"sharing invoegen om het werkend te krijgen. "
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-service.php:13
+#: jetpack-sharing/sharedaddy/sharing.php:163
+msgid "Share this:"
+msgstr "Deel dit:"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-service.php:555
+#: jetpack-sharing/sharedaddy/sharing.php:256
+#: jetpack-sharing/sharedaddy/sharing.php:289
+msgid "More"
+msgstr "Meer"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-service.php:557
+msgid "Share"
+msgstr "Delen"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:208
+msgctxt "as sharing source"
+msgid "Email"
+msgstr "Email"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:250
+msgid "This post has been shared!"
+msgstr "Dit bericht is gedeeld!"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:251
+#, php-format
+msgid "You have shared this post with %s"
+msgstr "Je hebt dit bericht gedeeld met %s"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:252
+msgid "Close"
+msgstr "Sluiten"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:274
+msgctxt "share to"
+msgid "Email"
+msgstr "Email"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:274
+msgid "Click to email this to a friend"
+msgstr "Klik hier om een emailadres in te voeren"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:287
+msgid "Send to Email Address"
+msgstr "Verstuur naar emailadres"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:295
+msgid "Your Name"
+msgstr "Verzender"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:298
+msgid "Your Email Address"
+msgstr "Email verzender"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:307
+msgid "Cancel"
+msgstr "Annuleer"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:310
+msgid "Post was not sent - check your email addresses!"
+msgstr "Bericht is niet verzonden - controleer je emailadres!"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:314
+msgid "Email check failed, please try again"
+msgstr "Email controle is mislukt, probeer opnieuw"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:318
+msgid "Sorry, your blog cannot share posts by email."
+msgstr "Sorry, je kunt het bericht niet delen per email."
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:341
+msgid "Twitter"
+msgstr "Twitter"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:403
+msgctxt "share to"
+msgid "Twitter"
+msgstr "Twitter"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:403
+msgid "Click to share on Twitter"
+msgstr "Klik om dit bericht te delen op Twitter"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:478
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:489
+msgctxt "share to"
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:489
+msgid "Click to share on StumbleUpon"
+msgstr "Klik om dit bericht te delen op StumbleUpon"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:516
+msgid "Reddit"
+msgstr "Reddit"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:523
+msgctxt "share to"
+msgid "Reddit"
+msgstr "Reddit"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:523
+msgid "Click to share on Reddit"
+msgstr "Klik om dit bericht te delen op Reddit"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:550
+msgid "Digg"
+msgstr "Digg"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:559
+#: jetpack-sharing/sharedaddy/sharing-sources.php:562
+msgid "Click to Digg this post"
+msgstr "Klik om dit bericht te delen op Digg"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:562
+msgctxt "share to"
+msgid "Digg"
+msgstr "Digg"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:606
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:620
+msgctxt "share to"
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:620
+msgid "Click to share on LinkedIn"
+msgstr "Klik om dit bericht te delen op LinkedIn"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:684
+msgid "Facebook"
+msgstr "Facebook"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:762
+msgctxt "share to"
+msgid "Facebook"
+msgstr "Facebook"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:762
+msgid "Share on Facebook"
+msgstr "Klik om dit bericht te delen op Facebook"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:793
+msgid "Print"
+msgstr "Afdrukken"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:797
+msgctxt "share to"
+msgid "Print"
+msgstr "Imprimir"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:797
+msgid "Click to print"
+msgstr "Klik om dit bericht te printen"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:813
+msgid "Press This"
+msgstr "Publique isto"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:841
+msgctxt "share to"
+msgid "Press This"
+msgstr "Publique isto"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:841
+msgid "Click to Press This!"
+msgstr "Klik om dit bericht te delen op Press."
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:859
+msgid "Google"
+msgstr "Google"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:872
+msgctxt "share to"
+msgid "Google"
+msgstr "Google"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:872
+msgid "Click to share on Google+"
+msgstr "Klik om dit bericht te delen op Google+"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:959
+msgid "Click to share"
+msgstr "Clique para partilhar"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:1009
+msgid "Label"
+msgstr "Label"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:1014
+msgid "URL"
+msgstr "URL"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:1019
+msgid "Icon"
+msgstr "Pictogram"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:1027
+msgid "Remove Service"
+msgstr "Service verwijderen"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:1106
+msgid "Tumblr"
+msgstr "Tumblr"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:1117
+msgctxt "share to"
+msgid "Tumblr"
+msgstr "Tumblr"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:1117
+msgid "Click to share on Tumblr"
+msgstr "Klik om dit bericht te delen op Tumblr"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:1153
+msgid "Pinterest"
+msgstr "Pinterest"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:1160
+msgctxt "share to"
+msgid "Pinterest"
+msgstr "Pinterest"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:1160
+msgid "Click to share on Pinterest"
+msgstr "Klik om dit bericht te delen op Pinterest"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:1231
+msgid "Pocket"
+msgstr "Pocket"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:1254
+msgctxt "share to"
+msgid "Pocket"
+msgstr "Pocket"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing-sources.php:1254
+msgid "Click to share on Pocket"
+msgstr "Klik om dit bericht te delen op Pocket"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:59
+#: jetpack-sharing/sharedaddy/sharing.php:169
+msgid "Sharing Settings"
+msgstr "Instellingen voor het delen"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:155
+msgid "Warning! Multibyte support missing!"
+msgstr "Waarschuwing! Multibyte ondersteuning ontbreekt!"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:156
+#, php-format
+msgid ""
+"This plugin will work without it, but multibyte support is used <a href=\"%s"
+"\">if available</a>. You may see minor problems with Tweets and other "
+"sharing services."
+msgstr ""
+"Deze plugin zal werken zonder het, maar ondersteuning voor multibyte is "
+"gebruikt <a href=\"%s\">quando disponível</a>. Mogelijk ziet u kleine "
+"problemen met Tweets en andere services voor het delen."
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:160
+msgid "Settings have been saved"
+msgstr "Instellingen zijn opgeslagen"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:176
+msgid "Sharing Buttons"
+msgstr "Delen van knoppen"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:177
+msgid ""
+"Add sharing buttons to your blog and allow your visitors to share posts with "
+"their friends."
+msgstr ""
+"Delen knoppen toevoegen aan uw blog en sta toe dat bezoekers berichten te "
+"delen met hun vrienden."
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:183
+msgid "Available Services"
+msgstr "Beschikbare Services"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:184
+msgid "Drag and drop the services you'd like to enable into the box below."
+msgstr ""
+"Slepen en neerzetten van de diensten die u wilt inschakelen in het vak "
+"hieronder."
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:185
+msgid "Add a new service"
+msgstr "Een nieuwe service toevoegen"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:198
+msgid ""
+"Please note that your services have been restricted because your site is "
+"private."
+msgstr ""
+"Houd er rekening mee dat uw diensten beperkt zijn omdat uw site prive is."
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:209
+msgid "Enabled Services"
+msgstr "Ingeschakelde diensten"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:212
+msgid "Services dragged here will appear individually."
+msgstr "Diensten hiernaast worden afzonderlijk weergegeven."
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:215
+msgid "Drag and drop available services here."
+msgstr "Sleep en plaats beschikbare diensten hier in."
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:226
+msgid "Services dragged here will be hidden behind a share button."
+msgstr "Diensten hier gesleept worden verborgen achter een deel knop."
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:241
+msgid "Live Preview"
+msgstr "Voorvertoning"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:244
+msgid "Sharing is off. Add services above to enable."
+msgstr "Delen is uitgeschakeld. Voeg diensten hierboven toe."
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:310
+msgid "Button style"
+msgstr "Stijl van knoppen"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:313
+msgid "Icon + text"
+msgstr "Pictogram+ tekst"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:314
+msgid "Icon only"
+msgstr "Alleen pictogrammen"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:315
+msgid "Text only"
+msgstr "Alleen tekst"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:316
+msgid "Official buttons"
+msgstr "Officiële knoppen"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:321
+msgid "Sharing label"
+msgstr "Label delen"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:327
+msgid "Open links in"
+msgstr "Koppelingen openen in"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:330
+msgid "New window"
+msgstr "Nieuw venster"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:331
+msgid "Same window"
+msgstr "Hetzelfde venster"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:336
+msgid "Show buttons on"
+msgstr "Knoppen weergeven op"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:342
+msgid "Front Page, Archive Pages, and Search Results"
+msgstr "Beginpagina, archiefpagina's en zoekresultaten"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:358
+msgid "Save Changes"
+msgstr "Instellingen opslaan"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:369
+msgid "Service name"
+msgstr "Servicenaam"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:375
+msgid "Sharing URL"
+msgstr "Delen van de URL"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:379
+msgid "You can add the following variables to your service sharing URL:"
+msgstr ""
+"U kunt de volgende variabelen toevoegen aan uw service delen van de URL:"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:384
+msgid "Icon URL"
+msgstr "Pictogram URL"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:387
+msgid "Enter the URL of a 16x16px icon you want to use for this service."
+msgstr ""
+"Voer de URL van een pictogram van de 16x16px die u wilt gebruiken voor deze "
+"service."
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:393
+msgid "Create Share Button"
+msgstr "Share knop maken"
+
+# @ jetpack-sharing
+#: jetpack-sharing/sharedaddy/sharing.php:405
+msgid ""
+"An error occurred creating your new sharing service - please check you gave "
+"valid details."
+msgstr ""
+"Fout bij het maken van uw nieuwe service voor het delen - gelieve de "
+"ingevoerde details te controleren."

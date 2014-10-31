@@ -19,7 +19,8 @@ Already there is:
 
 * Arabic.
 * Swedish by Max Beta.
-* Portuguese by [Celso Azevedo](http://www.wptotal.com/)
+* Portuguese by [Celso Azevedo](http://www.wptotal.com/).
+* Dutch by Bierleeuw.
 
 = JP Family =
 
