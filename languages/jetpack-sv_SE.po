@@ -1,0 +1,581 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JP Sharing v3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-11-05 19:26:56+0000\n"
+"Last-Translator: Anders Täpp <anders@idebild.se>\n"
+"Language-Team: <maxbeta@me.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: sharedaddy/sharedaddy.php:14
+#, php-format
+#@ jetpack
+msgid "%1$s (%2$s) thinks you may be interested in the following post:"
+msgstr "%1$s (%2$s) tror att du kan vara intresserad av följande artikel:"
+
+#: sharedaddy/sharedaddy.php:21
+#@ jetpack
+msgid "Shared Post"
+msgstr "Delat inlägg"
+
+#: sharedaddy/sharedaddy.php:26
+#: sharedaddy/sharing.php:67
+#@ jetpack
+msgid "Sharing"
+msgstr "Delning"
+
+#: sharedaddy/sharedaddy.php:40
+#@ jetpack
+msgid "Show sharing buttons."
+msgstr "Visa knappar för delning."
+
+#: sharedaddy/sharedaddy.php:79
+#: sharedaddy/sharedaddy.php:86
+#: sharedaddy.php:59
+#@ jetpack
+msgid "Settings"
+msgstr "Inställningar"
+
+#: sharedaddy/sharedaddy.php:87
+#@ jetpack
+msgid "Support"
+msgstr ""
+
+#: sharedaddy/sharedaddy.php:117
+#@ jetpack
+msgid "Disable CSS and JS"
+msgstr "Inaktivera CSS och Javascript"
+
+#: sharedaddy/sharedaddy.php:119
+#@ jetpack
+msgid "Advanced.  If this option is checked, you must include these files in your theme manually for the sharing links to work."
+msgstr "Avancerat. Om du aktiverar det här valet så måste du lägga till dessa filer till ditt tema manuellt."
+
+#: sharedaddy/sharing-service.php:12
+#: sharedaddy/sharing.php:171
+#@ jetpack
+msgid "Share this:"
+msgstr "Dela detta:"
+
+#: sharedaddy/sharing-service.php:572
+#: sharedaddy/sharing.php:264
+#: sharedaddy/sharing.php:297
+#@ jetpack
+msgid "More"
+msgstr "Mer..."
+
+#: sharedaddy/sharing-service.php:574
+#@ jetpack
+msgid "Share"
+msgstr "Dela"
+
+#: sharedaddy/sharing-sources.php:213
+#@ jetpack
+msgctxt "as sharing source"
+msgid "Email"
+msgstr "E-post"
+
+#: sharedaddy/sharing-sources.php:255
+#@ jetpack
+msgid "This post has been shared!"
+msgstr "Du har delat detta inlägg!"
+
+#: sharedaddy/sharing-sources.php:256
+#, php-format
+#@ jetpack
+msgid "You have shared this post with %s"
+msgstr "Du har delat detta inlägg med %s"
+
+#: sharedaddy/sharing-sources.php:257
+#@ jetpack
+msgid "Close"
+msgstr "Stäng"
+
+#: sharedaddy/sharing-sources.php:279
+#@ jetpack
+msgctxt "share to"
+msgid "Email"
+msgstr "E-post"
+
+#: sharedaddy/sharing-sources.php:279
+#@ jetpack
+msgid "Click to email this to a friend"
+msgstr "Klicka för att eposta artikeln"
+
+#: sharedaddy/sharing-sources.php:292
+#@ jetpack
+msgid "Send to Email Address"
+msgstr "Skicka till e-postadress"
+
+#: sharedaddy/sharing-sources.php:300
+#@ jetpack
+msgid "Your Name"
+msgstr "Ditt namn"
+
+#: sharedaddy/sharing-sources.php:303
+#@ jetpack
+msgid "Your Email Address"
+msgstr "Din e-post"
+
+#: sharedaddy/sharing-sources.php:311
+#@ jetpack
+msgid "Send Email"
+msgstr "Skicka e-post"
+
+#: sharedaddy/sharing-sources.php:312
+#@ jetpack
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: sharedaddy/sharing-sources.php:315
+#@ jetpack
+msgid "Post was not sent - check your email addresses!"
+msgstr "Inlägget skickades ej – kontrollera din e-postadress!"
+
+#: sharedaddy/sharing-sources.php:319
+#@ jetpack
+msgid "Email check failed, please try again"
+msgstr "E-postkontroll misslyckades – vänligen försök igen"
+
+#: sharedaddy/sharing-sources.php:323
+#@ jetpack
+msgid "Sorry, your blog cannot share posts by email."
+msgstr "Tyvärr, den här sidan kan inte dela inlägg via epost."
+
+#: sharedaddy/sharing-sources.php:346
+#@ jetpack
+msgid "Twitter"
+msgstr ""
+
+#: sharedaddy/sharing-sources.php:408
+#@ jetpack
+msgctxt "share to"
+msgid "Twitter"
+msgstr ""
+
+#: sharedaddy/sharing-sources.php:408
+#@ jetpack
+msgid "Click to share on Twitter"
+msgstr "Klicka för att dela på Twitter"
+
+#: sharedaddy/sharing-sources.php:483
+#@ jetpack
+msgid "StumbleUpon"
+msgstr ""
+
+#: sharedaddy/sharing-sources.php:494
+#@ jetpack
+msgctxt "share to"
+msgid "StumbleUpon"
+msgstr ""
+
+#: sharedaddy/sharing-sources.php:494
+#@ jetpack
+msgid "Click to share on StumbleUpon"
+msgstr "Klicka för att dela på StumbleUpon"
+
+#: sharedaddy/sharing-sources.php:521
+#@ jetpack
+msgid "Reddit"
+msgstr ""
+
+#: sharedaddy/sharing-sources.php:528
+#@ jetpack
+msgctxt "share to"
+msgid "Reddit"
+msgstr ""
+
+#: sharedaddy/sharing-sources.php:528
+#@ jetpack
+msgid "Click to share on Reddit"
+msgstr "Klicka för att dela på Reddit"
+
+#: sharedaddy/sharing-sources.php:555
+#@ jetpack
+msgid "LinkedIn"
+msgstr ""
+
+#: sharedaddy/sharing-sources.php:569
+#@ jetpack
+msgctxt "share to"
+msgid "LinkedIn"
+msgstr ""
+
+#: sharedaddy/sharing-sources.php:569
+#@ jetpack
+msgid "Click to share on LinkedIn"
+msgstr "Klicka för att dela på LinkedIn"
+
+#: sharedaddy/sharing-sources.php:633
+#@ jetpack
+msgid "Facebook"
+msgstr ""
+
+#: sharedaddy/sharing-sources.php:711
+#@ jetpack
+msgctxt "share to"
+msgid "Facebook"
+msgstr ""
+
+#: sharedaddy/sharing-sources.php:711
+#@ jetpack
+msgid "Share on Facebook"
+msgstr "Dela på Facebook"
+
+#: sharedaddy/sharing-sources.php:742
+#@ jetpack
+msgid "Print"
+msgstr "Skriv ut"
+
+#: sharedaddy/sharing-sources.php:746
+#@ jetpack
+msgctxt "share to"
+msgid "Print"
+msgstr "Skriv ut"
+
+#: sharedaddy/sharing-sources.php:746
+#@ jetpack
+msgid "Click to print"
+msgstr "Klicka för att skriva ut"
+
+#: sharedaddy/sharing-sources.php:762
+#@ jetpack
+msgid "Press This"
+msgstr "Blogga det här"
+
+#: sharedaddy/sharing-sources.php:807
+#@ jetpack
+msgctxt "share to"
+msgid "Press This"
+msgstr "Blogga det här"
+
+#: sharedaddy/sharing-sources.php:807
+#@ jetpack
+msgid "Click to Press This!"
+msgstr "Klicka för att blogga det här!"
+
+#: sharedaddy/sharing-sources.php:825
+#@ jetpack
+msgid "Google"
+msgstr ""
+
+#: sharedaddy/sharing-sources.php:838
+#@ jetpack
+msgctxt "share to"
+msgid "Google"
+msgstr ""
+
+#: sharedaddy/sharing-sources.php:838
+#@ jetpack
+msgid "Click to share on Google+"
+msgstr "Klicka för att dela på Google+"
+
+#: sharedaddy/sharing-sources.php:939
+#@ jetpack
+msgid "Click to share"
+msgstr "Klicka för att dela"
+
+#: sharedaddy/sharing-sources.php:989
+#@ jetpack
+msgid "Label"
+msgstr "Etikett"
+
+#: sharedaddy/sharing-sources.php:994
+#@ jetpack
+msgid "URL"
+msgstr "Länk"
+
+#: sharedaddy/sharing-sources.php:999
+#@ jetpack
+msgid "Icon"
+msgstr "Ikon"
+
+#: sharedaddy/sharing-sources.php:1006
+#@ jetpack
+msgid "Save"
+msgstr "Spara"
+
+#: sharedaddy/sharing-sources.php:1007
+#@ jetpack
+msgid "Remove Service"
+msgstr "Ta bort tjänst"
+
+#: sharedaddy/sharing-sources.php:1086
+#@ jetpack
+msgid "Tumblr"
+msgstr ""
+
+#: sharedaddy/sharing-sources.php:1097
+#@ jetpack
+msgctxt "share to"
+msgid "Tumblr"
+msgstr ""
+
+#: sharedaddy/sharing-sources.php:1097
+#@ jetpack
+msgid "Click to share on Tumblr"
+msgstr "Klicka för att dela på Tumblr"
+
+#: sharedaddy/sharing-sources.php:1133
+#@ jetpack
+msgid "Pinterest"
+msgstr ""
+
+#: sharedaddy/sharing-sources.php:1140
+#@ jetpack
+msgctxt "share to"
+msgid "Pinterest"
+msgstr ""
+
+#: sharedaddy/sharing-sources.php:1140
+#@ jetpack
+msgid "Click to share on Pinterest"
+msgstr "Klicka för att dela på Pinterest"
+
+#: sharedaddy/sharing-sources.php:1211
+#: sharedaddy/sharing-sources.php:1229
+#@ jetpack
+msgid "Pocket"
+msgstr ""
+
+#: sharedaddy/sharing-sources.php:1234
+#@ jetpack
+msgctxt "share to"
+msgid "Pocket"
+msgstr ""
+
+#: sharedaddy/sharing-sources.php:1234
+#@ jetpack
+msgid "Click to share on Pocket"
+msgstr "Klicka för att dela på Pocket"
+
+#: sharedaddy/sharing.php:67
+#: sharedaddy/sharing.php:177
+#@ jetpack
+msgid "Sharing Settings"
+msgstr "Inställningar"
+
+#: sharedaddy/sharing.php:163
+#@ jetpack
+msgid "Warning! Multibyte support missing!"
+msgstr "Varning! Stöd för Multibyte saknas!"
+
+#: sharedaddy/sharing.php:164
+#, php-format
+#@ jetpack
+msgid "This plugin will work without it, but multibyte support is used <a href=\"%s\">if available</a>. You may see minor problems with Tweets and other sharing services."
+msgstr "Det här tillägget fungerar utan men multibyte används <a href=\"%s\">om tillgängligt</a>. Du kan uppleva mindre problem med Twitter och andra tjänster."
+
+#: sharedaddy/sharing.php:168
+#@ jetpack
+msgid "Settings have been saved"
+msgstr "Inställningarna har sparats"
+
+#: sharedaddy/sharing.php:184
+#@ jetpack
+msgid "Sharing Buttons"
+msgstr "Delningsknappar"
+
+#: sharedaddy/sharing.php:185
+#@ jetpack
+msgid "Add sharing buttons to your blog and allow your visitors to share posts with their friends."
+msgstr "Lägg till delningsknappar på din webbsida och låt besökare dela dina inlägg med sina vänner."
+
+#: sharedaddy/sharing.php:191
+#@ jetpack
+msgid "Available Services"
+msgstr "Tillgängliga tjänster"
+
+#: sharedaddy/sharing.php:192
+#@ jetpack
+msgid "Drag and drop the services you'd like to enable into the box below."
+msgstr "Drag och släpp de tjänster du vill aktivera till rutan nedan."
+
+#: sharedaddy/sharing.php:193
+#@ jetpack
+msgid "Add a new service"
+msgstr "Lägg till en ny tjänst"
+
+#: sharedaddy/sharing.php:206
+#@ jetpack
+msgid "Please note that your services have been restricted because your site is private."
+msgstr "Dina tjänster har begränsats för din webbsida är privat."
+
+#: sharedaddy/sharing.php:217
+#@ jetpack
+msgid "Enabled Services"
+msgstr "Aktiverade tjänster"
+
+#: sharedaddy/sharing.php:220
+#@ jetpack
+msgid "Services dragged here will appear individually."
+msgstr "Tjänster som dras hit kommer att visas separat"
+
+#: sharedaddy/sharing.php:223
+#@ jetpack
+msgid "Drag and drop available services here."
+msgstr "Drag och släpp tillgängliga tjänster här."
+
+#: sharedaddy/sharing.php:234
+#@ jetpack
+msgid "Services dragged here will be hidden behind a share button."
+msgstr "Tjänster som dras hit kommer att vara gömda i en generell delningsknapp."
+
+#: sharedaddy/sharing.php:249
+#@ jetpack
+msgid "Live Preview"
+msgstr "Förhandsvisning"
+
+#: sharedaddy/sharing.php:252
+#@ jetpack
+msgid "Sharing is off. Add services above to enable."
+msgstr "Delning är inaktiv. Lägg till tjänster ovan för att aktivera."
+
+#: sharedaddy/sharing.php:318
+#@ jetpack
+msgid "Button style"
+msgstr "Knappstil"
+
+#: sharedaddy/sharing.php:321
+#@ jetpack
+msgid "Icon + text"
+msgstr "Ikon + text"
+
+#: sharedaddy/sharing.php:322
+#@ jetpack
+msgid "Icon only"
+msgstr "Endast ikon"
+
+#: sharedaddy/sharing.php:323
+#@ jetpack
+msgid "Text only"
+msgstr "Endast text"
+
+#: sharedaddy/sharing.php:324
+#@ jetpack
+msgid "Official buttons"
+msgstr "Officiella knappar"
+
+#: sharedaddy/sharing.php:329
+#@ jetpack
+msgid "Sharing label"
+msgstr "Etikett för delning"
+
+#: sharedaddy/sharing.php:335
+#@ jetpack
+msgid "Open links in"
+msgstr "Öppna länkar i"
+
+#: sharedaddy/sharing.php:338
+#@ jetpack
+msgid "New window"
+msgstr "nytt fönster"
+
+#: sharedaddy/sharing.php:339
+#@ jetpack
+msgid "Same window"
+msgstr "samma fönster"
+
+#: sharedaddy/sharing.php:344
+#@ jetpack
+msgid "Show buttons on"
+msgstr "Visa delningsknappar på"
+
+#: sharedaddy/sharing.php:350
+#@ jetpack
+msgid "Front Page, Archive Pages, and Search Results"
+msgstr "Startsida, arkivsidor och sökresultat"
+
+#: sharedaddy/sharing.php:366
+#@ jetpack
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: sharedaddy/sharing.php:377
+#@ jetpack
+msgid "Service name"
+msgstr "Tjänstens namn"
+
+#: sharedaddy/sharing.php:383
+#@ jetpack
+msgid "Sharing URL"
+msgstr "Delningslänk"
+
+#: sharedaddy/sharing.php:387
+#@ jetpack
+msgid "You can add the following variables to your service sharing URL:"
+msgstr "Du kan lägga till följande variabler till din delningslänk:"
+
+#: sharedaddy/sharing.php:392
+#@ jetpack
+msgid "Icon URL"
+msgstr "Länk till ikon"
+
+#: sharedaddy/sharing.php:395
+#@ jetpack
+msgid "Enter the URL of a 16x16px icon you want to use for this service."
+msgstr "Ange länk till en bild med storlek 16x16px. Bilden används som ikon för den här tjänsten."
+
+#: sharedaddy/sharing.php:401
+#@ jetpack
+msgid "Create Share Button"
+msgstr "Skapa delningsknapp"
+
+#: sharedaddy/sharing.php:413
+#@ jetpack
+msgid "An error occurred creating your new sharing service - please check you gave valid details."
+msgstr "Ett fel uppstod när din tjänst skulle skapas – kontrollera dina uppgifter."
+
+#. translators: plugin header field 'PluginURI'
+#: sharedaddy.php:0
+#@ jetpack
+msgid "http://wordpress.org/plugins/jetpack-sharing/"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: sharedaddy.php:0
+#@ jetpack
+msgid "Share content with Facebook, Twitter, and many more."
+msgstr "Dela innehåll med Facebook, Twitter och många andra tjänster."
+
+#: sharedaddy/sharing-sources.php:60
+#@ jetpack
+msgid " (Opens in new window)"
+msgstr ""
+
+#: sharedaddy/sharing-sources.php:1095
+#@ jetpack
+msgid "Share on Tumblr"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: sharedaddy.php:0
+#@ jetpack
+msgid "JP Sharing"
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: sharedaddy.php:0
+#@ jetpack
+msgid "JP Bot"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: sharedaddy.php:0
+#@ jetpack
+msgid "3.2"
+msgstr ""
+
