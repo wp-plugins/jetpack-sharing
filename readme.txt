@@ -1,9 +1,9 @@
 === JP Sharing ===
-Contributors: ahspw
+Contributors: wpjp
 Tags: share, social, facebook, google, twitter, pinterest, linkedin, stumbleupon, reddit, digg, tumblr, sharing, jetpack
 Requires at least: 3.5
-Tested up to: 3.9.1
-Stable tag: 3.1
+Tested up to: 4.0
+Stable tag: 3.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,6 +32,11 @@ Already there is:
 * [JP Omnisearch](http://wordpress.org/plugins/jetpack-omnisearch/) - A single search box, that lets you search many different things.
 
 == Changelog ==
+
+= 3.2 =
+
+* Bug Fix: Fixed styles.
+* Dutch translation by Bierleeuw.
 
 = 3.1 =
 
@@ -74,6 +79,9 @@ Already there is:
 * Initial release
 
 == Upgrade Notice ==
+
+= 3.2 =
+Bugfixes and Dutch translation.
 
 = 3.1 =
 Bugfixes, improved RTL support, added Portuguese translation, and Updated Genericons to version 3.1.
