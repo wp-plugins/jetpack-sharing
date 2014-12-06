@@ -2,8 +2,8 @@
 Contributors: wpjp
 Tags: share, social, facebook, google, twitter, pinterest, linkedin, stumbleupon, reddit, digg, tumblr, sharing, jetpack
 Requires at least: 3.5
-Tested up to: 4.0
-Stable tag: 3.2
+Tested up to: 4.0.1
+Stable tag: 3.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,14 +13,9 @@ Share content with Facebook, Twitter, and many more.
 
 Just the [Sharing module](http://jetpack.me/support/sharing/) from [Jetpack](http://wordpress.org/plugins/jetpack/).
 
-= Translations =
-Translations are not included in this plugin. Though, you can easily translate this plugin if you are interested enough.
-Already there is:
+*No support* will be provided unless the issue cannot be reproduced using the original [Jetpack](http://wordpress.org/plugins/jetpack/) module.
 
-* Arabic.
-* Swedish by Max Beta.
-* Portuguese by [Celso Azevedo](http://www.wptotal.com/).
-* Dutch by Bierleeuw.
+[Download Translations](https://downloads.wordpress.org/plugin/jetpack-sharing.zip).
 
 = JP Family =
 
@@ -32,6 +27,10 @@ Already there is:
 * [JP Omnisearch](http://wordpress.org/plugins/jetpack-omnisearch/) - A single search box, that lets you search many different things.
 
 == Changelog ==
+
+= 3.2.1 =
+
+* Enqueue Genericons on static front page as well if selected.
 
 = 3.2 =
 
